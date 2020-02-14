@@ -1,19 +1,33 @@
 # PoC in GitHub
 
 ## 1999
+<details>
+<summary>Open</summary>
+
 ### CVE-1999-0532
 - [websecnl/Bulk_CVE-1999-0532_Scanner](https://github.com/websecnl/Bulk_CVE-1999-0532_Scanner)
 
+</details>
+
 
 ## 2000
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2000-0170
 - [mike182/exploit](https://github.com/mike182/exploit)
 
 ### CVE-2000-0979
 - [Z6543/CVE-2000-0979](https://github.com/Z6543/CVE-2000-0979)
 
+</details>
 
 ## 2001
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2001-0680
 - [alt3kx/CVE-2001-0680](https://github.com/alt3kx/CVE-2001-0680)
 
@@ -35,8 +49,14 @@
 ### CVE-2001-1442
 - [alt3kx/CVE-2001-1442](https://github.com/alt3kx/CVE-2001-1442)
 
+</details>
+
 
 ## 2002
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2002-0200
 - [alt3kx/CVE-2002-0200](https://github.com/alt3kx/CVE-2002-0200)
 
@@ -67,8 +87,14 @@
 ### CVE-2002-0991
 - [alt3kx/CVE-2002-0991](https://github.com/alt3kx/CVE-2002-0991)
 
+</details>
+
 
 ## 2003
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2003-0222
 - [phamthanhsang280477/CVE-2003-0222](https://github.com/phamthanhsang280477/CVE-2003-0222)
 
@@ -77,8 +103,14 @@
 - [fyoderxx/slmail-exploit](https://github.com/fyoderxx/slmail-exploit)
 - [war4uthor/CVE-2003-0264](https://github.com/war4uthor/CVE-2003-0264)
 
+</details>
+
 
 ## 2004
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2004-0558
 - [fibonascii/CVE-2004-0558](https://github.com/fibonascii/CVE-2004-0558)
 
@@ -94,16 +126,28 @@
 ### CVE-2004-2549
 - [alt3kx/CVE-2004-2549](https://github.com/alt3kx/CVE-2004-2549)
 
+</details>
+
 
 ## 2005
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2005-1125
 - [tagatac/libsafe-CVE-2005-1125](https://github.com/tagatac/libsafe-CVE-2005-1125)
 
 ### CVE-2005-2428
 - [schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit](https://github.com/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit)
 
+</details>
+
 
 ## 2006
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2006-1236
 - [Axua/CVE-2006-1236](https://github.com/Axua/CVE-2006-1236)
 
@@ -123,8 +167,14 @@
 - [shauntdergrigorian/cve-2006-6184](https://github.com/shauntdergrigorian/cve-2006-6184)
 - [b03902043/CVE-2006-6184](https://github.com/b03902043/CVE-2006-6184)
 
+</details>
+
 
 ## 2007
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2007-0038
 - [Axua/CVE-2007-0038](https://github.com/Axua/CVE-2007-0038)
 
@@ -157,7 +207,14 @@
 - [alt3kx/CVE-2007-6638](https://github.com/alt3kx/CVE-2007-6638)
 
 
+</details>
+
+
 ## 2008
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2008-0128
 - [ngyanch/4062-1](https://github.com/ngyanch/4062-1)
 
@@ -200,8 +257,14 @@
 ### CVE-2008-7220
 - [followboy1999/CVE-2008-7220](https://github.com/followboy1999/CVE-2008-7220)
 
+</details>
+
 
 ## 2009
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2009-0473
 - [akbarq/CVE-2009-0473](https://github.com/akbarq/CVE-2009-0473)
 
@@ -253,8 +316,14 @@
 - [vpereira/CVE-2009-5147](https://github.com/vpereira/CVE-2009-5147)
 - [zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-](https://github.com/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-)
 
+</details>
+
 
 ## 2010
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2010-0426
 - [t0kx/privesc-CVE-2010-0426](https://github.com/t0kx/privesc-CVE-2010-0426)
 - [cved-sources/cve-2010-0426](https://github.com/cved-sources/cve-2010-0426)
@@ -314,8 +383,14 @@
 ### CVE-2010-5327
 - [Michael-Main/CVE-2010-5327](https://github.com/Michael-Main/CVE-2010-5327)
 
+</details>
+
 
 ## 2011
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2011-0228
 - [jan0/isslfix](https://github.com/jan0/isslfix)
 
@@ -389,8 +464,14 @@
 ### CVE-2011-4919
 - [hartwork/mpacktrafficripper](https://github.com/hartwork/mpacktrafficripper)
 
+</details>
+
 
 ## 2012
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2012-0003
 - [k0keoyo/CVE-2012-0003_eXP](https://github.com/k0keoyo/CVE-2012-0003_eXP)
 
@@ -474,8 +555,14 @@
 ### CVE-2012-6636
 - [xckevin/AndroidWebviewInjectDemo](https://github.com/xckevin/AndroidWebviewInjectDemo)
 
+</details>
+
 
 ## 2013
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2013-0156
 - [terracatta/name_reverser](https://github.com/terracatta/name_reverser)
 - [heroku/heroku-CVE-2013-0156](https://github.com/heroku/heroku-CVE-2013-0156)
@@ -621,8 +708,14 @@
 ### CVE-2013-6987
 - [Sciota/CVE-2013-6987](https://github.com/Sciota/CVE-2013-6987)
 
+</details>
+
 
 ## 2014
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2014-0038
 - [saelo/cve-2014-0038](https://github.com/saelo/cve-2014-0038)
 
@@ -989,7 +1082,14 @@
 - [ench4nt3r/cve-2014-9707](https://github.com/ench4nt3r/cve-2014-9707)
 
 
+</details>
+
+
 ## 2015
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2015-0006
 - [bugch3ck/imposter](https://github.com/bugch3ck/imposter)
 
@@ -1338,8 +1438,14 @@
 ### CVE-2015-9251
 - [halkichi0308/CVE-2015-9251](https://github.com/halkichi0308/CVE-2015-9251)
 
+</details>
+
 
 ## 2016
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2016-0034
 - [DiamondHunters/CVE-2016-0034-Decompile](https://github.com/DiamondHunters/CVE-2016-0034-Decompile)
 
@@ -1791,8 +1897,14 @@
 ### CVE-2016-9920
 - [t0kx/exploit-CVE-2016-9920](https://github.com/t0kx/exploit-CVE-2016-9920)
 
+</details>
+
 
 ## 2017
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2017-0038
 - [k0keoyo/CVE-2017-0038-EXP-C-JS](https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS)
 
@@ -2787,8 +2899,14 @@
 ### CVE-2017-9999
 - [homjxi0e/CVE-2017-9999_bypassing_General_Firefox](https://github.com/homjxi0e/CVE-2017-9999_bypassing_General_Firefox)
 
+</details>
+
 
 ## 2018
+
+<details>
+<summary>Open</summary>
+
 ### CVE-2018-0101
 - [1337g/CVE-2018-0101-DOS-POC](https://github.com/1337g/CVE-2018-0101-DOS-POC)
 - [Cymmetria/ciscoasa_honeypot](https://github.com/Cymmetria/ciscoasa_honeypot)
@@ -4178,6 +4296,8 @@
 - [IHA114/CVE-2018-9995_dvr_credentials](https://github.com/IHA114/CVE-2018-9995_dvr_credentials)
 - [likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool](https://github.com/likaifeng0/CVE-2018-9995_dvr_credentials-dev_tool)
 - [b510/CVE-2018-9995-POC](https://github.com/b510/CVE-2018-9995-POC)
+
+</details>
 
 
 ## 2019
